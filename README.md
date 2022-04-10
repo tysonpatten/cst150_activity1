@@ -1,7 +1,6 @@
-# tyson patten
-# cst 150 
-# Topic 1 Activity 1
-# this is my own work
+tyson patten
+cst 150 
+Topic 1 Activity 1
 
 In the first screenshot, you'll see 3 controls in the forms app: Label, TextBox, and Button.
 
