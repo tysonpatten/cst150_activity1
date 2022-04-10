@@ -1,9 +1,10 @@
-// tyson patten
-// cst 150 
-// Topic 1 Activity 1
+# cst 150 - Topic 1 Activity 1
+tyson patten
 
-In the first screenshot, you'll see 3 controls in the forms app: Label, TextBox, and Button.
+In this folder, you'll find my first Windows Forms App. It does the following:
+- Includes 3 different controls from the .NET framework
+- These controls are the Label, TextBox, and Button
+- When the button is clicked, a function displays the previously hidden text below the button.
+- If the user types in their name and clicks the button, the "name" variable is changed, thus changing the display text.
 
-The second screenshot shows that when the button is clicked, a function displays text below the button.
-
-The third shows that the text displayed is attached to a variable, that can be changed by the users input.
+VIDEO WALKTHROUGH: https://www.loom.com/share/4c38df7e6de643f2915780a299728e96?sharedAppSource=personal_library
